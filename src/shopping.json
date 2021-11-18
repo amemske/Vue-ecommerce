@@ -1,0 +1,17 @@
+[
+  { "id": 1,  "name": "Dettol",      "price": { "Ksh": 113.26, "NOK": 17.43 }, "type": "Laundry" },
+  { "id": 2,  "name": "Rosy Hand Wash 500ml",   "price": { "Ksh": 124, "NOK": 15.82 }, "type": "Laundry" },
+  { "id": 3,  "name": "Fa Cacao Butter 250ml",    "price": { "Ksh":247, "NOK": 16.66 }, "type": "Laundry" },
+  { "id": 5,  "name": "Gental Mango 500ml",     "price": { "Ksh": 189, "NOK": 62.33 }, "type": "Laundry" },
+  { "id": 6,  "name": "Dairy Best carton",       "price": { "Ksh": 800, "NOK": 62.50 }, "type": "Milk" },
+  { "id": 7,  "name": "Downy Fabric Softner 1.5L", "price": { "Ksh": 549, "NOK": 72.74 }, "type": "Laundry" },
+  { "id": 8,  "name": "Lifesum Liquid Detergent 5L",           "price": { "Ksh": 550, "NOK": 99.43 }, "type": "Laundry" },
+  { "id": 9,  "name": "Brookside UHT",       "price": { "Ksh": 53, "NOK": 88.29 }, "type": "Milk" },
+  { "id": 10, "name": "Sta soft Fabirc Softner",         "price": { "Ksh": 430, "NOK": 69.53 }, "type": "Laundry" },
+  { "id": 11, "name": "KCC Gold",       "price": { "Ksh": 49, "NOK": 96.53 }, "type": "Milk"     },
+  { "id": 12, "name": "Omo Hand Wash 3.5kg",            "price": { "Ksh": 742, "NOK": 65.74 }, "type": "Laundry" },
+  { "id": 13, "name": "Sunlight 700g",   "price": { "Ksh": 112, "NOK": 35.22 }, "type": "Laundry"  },
+  { "id": 14, "name": "Exe 2kgs",        "price": { "Ksh": 142, "NOK": 83.08 }, "type": "Flour"  },
+  { "id": 15, "name": "Daima 500ml",  "price": { "Ksh": 45, "NOK": 89.69 }, "type": "Milk" },
+  { "id": 16, "name": "Jogoo Maize 5kg",      "price": { "Ksh": 300, "NOK": 26.68 }, "type": "Flour" }
+]
